@@ -104,9 +104,9 @@ body{
   -webkit-transform:translateX(100%);	
   transform:translateX(100%);
   /* Appicazione dell'animazione all'elemento */	
-  -moz-animation: marquee 11.5s linear infinite;
-  -webkit-animation: marquee 11.5s linear infinite;
-  animation: marquee 11.5s linear infinite;
+  -moz-animation: marquee 15s linear infinite;
+  -webkit-animation: marquee 15s linear infinite;
+  animation: marquee 15s linear infinite;
  }
  /* Definizione dell'animazione */
 @-moz-keyframes marquee{
