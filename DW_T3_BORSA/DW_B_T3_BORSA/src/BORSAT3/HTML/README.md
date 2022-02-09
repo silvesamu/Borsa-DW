@@ -1,0 +1,1 @@
+il codice è già pronto (anche se una funzione la devo mettere a posto, è usabile), l'HTML mostra gli elementi minimi richiesti per il funzionamento del javascript (quindi non da usare, ma da consultare quando creare quello di produzione)

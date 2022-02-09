@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Netflix Stock</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="code.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <span class="text1" id="title">BORSA NFLX</span>
+    </div>
+      <img id="immagine" src="img/NFLX.png" alt="">
+      <img id="logo" src="img/logo.png" alt="">
+    <br><br><br><br><br><br><br>
+    <div class="marquee">
+      <p id="marqData"></p>
+    </div>
+    <br><br>
+    <div class="box1" ><canvas id="main-chart"></canvas><button class="button" onclick="saveAsImage(true)"><span>Save as image</span></button></div>
+    <div class="box3">
+      <h2 id="code"></h2>
+      <h3 id="exchange"></h3>
+      <h4 id="address"></h4>
+      <p id="description"></p>
+    </div>
+    <div class="box2"><canvas id="the-other-chart"></canvas><button class="button" onclick="saveAsImage(false)"><span>Save as image</span></button></div>
+    <div class="box4">      
+      <p id="maxHypo"></p>
+      <p id="earned"></p>
+      <p id="raiseDays"></p>
+    </div>
+    <script>document.onload = STDs()</script>
+  </body>
+</html>
+
+
+
+

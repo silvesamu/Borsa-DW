@@ -1,0 +1,13 @@
+WHAT WENT RIGHT
+Everyone has done what they had to.
+We didn't overflow in time.
+
+
+AREAS FOR IMPROVEMENT
+Git usage.
+
+
+ACTION PLAN
+Not wasting 1 hour on this document.
+Completing the Java section.
+Polish up the website based on Torry's feedback.
